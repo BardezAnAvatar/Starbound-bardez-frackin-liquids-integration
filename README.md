@@ -13,6 +13,11 @@ This repo is a mod for [Starbound](https://playstarbound.com/), based on top of 
 - [Frackin' Reagent Liquids](https://steamcommunity.com/sharedfiles/filedetails/?id=2896736076)
 
 This mod does the following:
+- [X] Adds liquid alloying recipes
+  - [X] Advanced Alloy
+  - [X] Tritanium
+  - [X] Dense Alloy
+  - [X] Aetherium Alloy
 - [ ] Adds liquid mixing reactions
   - [ ] TODO: what reactions do I want to add?
     - Pyreite and Isogen -> lead or protocite or something
